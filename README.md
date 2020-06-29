@@ -9,6 +9,20 @@ and as an IDE iam using "VISUAL STUDIO CODE " it is really good to use it the ui
 
 NOTE ON THE PROJECTS
 
-These two projects are made for fun
+These four projects are made for fun
 they have been made by importing randon moduel
 using while loop and also if loop 
+
+Email.py 
+This is a project where your email is sliced into the username and the domain(the domain may differ)
+when the user inputs his/her's email the slicer then slices it the sepreates the username and the domain
+
+tic tac tio.py
+This is a small but fun game that can be played with your friends.
+
+number_gessing.py
+This is also a fun game where the user has to guess the number that the system is generating this will go on 
+unless you quite.
+
+Dice.py
+This is simular to a regular dice, this wil generate a random number every time it is thrown.
