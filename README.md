@@ -1,4 +1,4 @@
-# My_first_game_projects
+# My learning game projects
 
 
 This is my first small game projects done in an IDE and a python shell 
